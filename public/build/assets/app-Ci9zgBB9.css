@@ -1,0 +1,1 @@
+header{width:100%;padding:1rem 2rem;background-color:gray;border-bottom:1px solid black}header ul{list-style:none}footer{border-top:1px solid black;background-color:gray;margin-top:5rem;max-height:25vh;padding:2rem 25%;width:100%}:root{--bg: #f2fdff}*{margin:0;padding:0;box-sizing:border-box}body{background-color:var(--bg)}main{min-height:65vh}
