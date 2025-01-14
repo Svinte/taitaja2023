@@ -1,2 +1,0 @@
-FIN
-Kirjoita PHP-funktio, joka ottaa numeron ja tarkistaa, onko se alkuluku (prime number). Joka tapauksessa pienempi ja suurempi naapurialkuluvut tulisi myös tulostaa.

@@ -1,5 +1,0 @@
-FIN
-1. Toteuta kuvan mukainen pohjapiirustus html:llä ja css:llä
-2. Tee oikealle puolelle lista huoneista
-3. Kun siirrät kursorin huoneen nimen päälle, se aktivoituu pohjapiirustuksessa
-4. Kun hiiri siirtyy pois, aktivointi häviää

@@ -1,2 +1,0 @@
-FIN
-Tiedostossa person.json on yhden henkilön tiedot (nimi ja ikä). Lue tiedosto ja muuta henkilön nimi sekä ikä. Tallenna uudet tiedot person.json-tiedostoon.

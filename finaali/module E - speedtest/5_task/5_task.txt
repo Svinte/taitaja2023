@@ -1,5 +1,0 @@
-FIN
-• Generoi kolme lukua väliltä 1-10.
-• Generoi kolme lisää lukua väliltä 1-10.
-• Tulosta molemmat sarjat kahtena sarakkeena laskevassa järjestyksessä vierekkäin.
-• Animaatiolla korostetaan luvut, jotka ovat samassa rivissä (pulsoivia animaatioita (koon ja värin muutokset)).

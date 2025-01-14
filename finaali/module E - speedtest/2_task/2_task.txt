@@ -1,7 +1,0 @@
-FIN
-Junan kokoaminen (katso wireframe)
-
-1. Sivulla näkyy erilaiset junan osat
-2. Käyttäjä voi valita eri osia klikkaamalla kuvia
-3. Käyttäjän valitsema kuva lisätään alas junan osaksi oikealle
-4. Käyttäjä voi lisätä haluamansa määrän malleja, haluamassaan järjestyksessä

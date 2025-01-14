@@ -1,6 +1,0 @@
-FIN
-Luo JavaScript-funktio, joka ottaa parametrina taulukon, jossa on 10 kokonaislukua välillä 0-9. Funktion tarkoitus on muotoilla puhelinnumero, joka on saatu taulukosta muotoon "+358 XX YYY ZZZZ", missä "XX" on kaksi ensimmäistä numeroa, "YYY" on seuraavat kolme numeroa ja "ZZZZ" on viisi viimeistä numeroa.
-
-- Muunna numerot merkkijonoiksi ja lisää etuliite "+358".
-- Muotoile numerot välilyöntien avulla oikeaan muotoon.
-- Palauta lopullinen muotoiltu puhelinnumero merkkijonona.

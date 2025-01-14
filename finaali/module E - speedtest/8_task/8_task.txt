@@ -1,6 +1,0 @@
-FIN
-Nykyisen pelin logiikka:
-Aina kun käärme syö saaliin, se kasvaa.
-
-Uusi logiikka:
-Käärmeen pituus kasvaa automaattisesti ajan kuluessa yhdellä palalla joka kolmas sekunti. Muuta logiikkaa niin, että käärmeen syödessä sen pituus lyhenee.
