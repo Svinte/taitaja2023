@@ -1,0 +1,21 @@
+@import '_header';
+@import '_footer';
+
+:root {
+  --bg: #f2fdff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--bg);
+}
+
+main
+{
+    min-height: 65vh;
+}
